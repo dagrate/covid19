@@ -86,6 +86,7 @@ Last updated 17 March 2020
   <img src="https://github.com/dagrate/covid19/blob/master/plots/lux_dea.png" width="275"/>
   <img src="https://github.com/dagrate/covid19/blob/master/plots/lux_rec.png" width="275"/>
 </p>
+
 ## Asia
 
 ### China
