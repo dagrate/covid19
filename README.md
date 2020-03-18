@@ -8,15 +8,15 @@ Last updated 17 March 2020
 ### Canada
 
 <p align="middle">
-  <img src="https://github.com/dagrate/covid19/blob/master/plots/canada_conf.png" width="300"/>
-  <img src="https://github.com/dagrate/covid19/blob/master/plots/canada_dea.png" width="300"/>
-  <img src="https://github.com/dagrate/covid19/blob/master/plots/canada_rec.png" width="300"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/canada_conf.png" width="275"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/canada_dea.png" width="275"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/canada_rec.png" width="275"/>
 </p>
 
 ### Canada - Quebec
 
 <p align="middle">
-  <img src="https://github.com/dagrate/covid19/blob/master/plots/quebec_conf.png" width="300"/>
-  <img src="https://github.com/dagrate/covid19/blob/master/plots/quebec_dea.png" width="300"/>
-  <img src="https://github.com/dagrate/covid19/blob/master/plots/quebec_rec.png" width="300"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/quebec_conf.png" width="275"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/quebec_dea.png" width="275"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/quebec_rec.png" width="275"/>
 </p>
