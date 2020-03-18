@@ -20,3 +20,19 @@ Last updated 17 March 2020
   <img src="https://github.com/dagrate/covid19/blob/master/plots/quebec_dea.png" width="275"/>
   <img src="https://github.com/dagrate/covid19/blob/master/plots/quebec_rec.png" width="275"/>
 </p>
+
+### USA
+
+<p align="middle">
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/us_conf.png" width="275"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/us_dea.png" width="275"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/us_rec.png" width="275"/>
+</p>
+
+### USA - New York State
+
+<p align="middle">
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/usny_conf.png" width="275"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/usny_dea.png" width="275"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/usny_rec.png" width="275"/>
+</p>
