@@ -71,6 +71,14 @@ Last updated 19 March 2020
   <img src="https://github.com/dagrate/covid19/blob/master/plots/Germany_rec.png" width="275"/>
 </p>
 
+### Italy
+
+<p align="middle">
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/Italy_conf.png" width="275"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/Italy_dea.png" width="275"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/Italy_rec.png" width="275"/>
+</p>
+
 ### Belgium
 
 <p align="middle">
