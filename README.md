@@ -8,7 +8,7 @@ Last updated 19 March 2020
 ### Canada
 
 <p align="middle">
-  <img src="https://github.com/dagrate/covid19/blob/master/plots/Cnada_conf.png" width="275"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/Canada_conf.png" width="275"/>
   <img src="https://github.com/dagrate/covid19/blob/master/plots/Canada_dea.png" width="275"/>
   <img src="https://github.com/dagrate/covid19/blob/master/plots/Canada_rec.png" width="275"/>
 </p>
