@@ -13,13 +13,13 @@ Last updated 19 March 2020
 ## Europe
 
 <p align="middle">
-  <img src="https://github.com/dagrate/covid19/blob/master/plots/eu_conf.png" width="275"/>
-  <img src="https://github.com/dagrate/covid19/blob/master/plots/eu_dea.png" width="275"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/eu_conf.png" width="400"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/eu_dea.png" width="400"/>
 </p>
 
 ## Asia
 
 <p align="middle">
-  <img src="https://github.com/dagrate/covid19/blob/master/plots/as_conf.png" width="275"/>
-  <img src="https://github.com/dagrate/covid19/blob/master/plots/as_dea.png" width="275"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/as_conf.png" width="400"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/as_dea.png" width="400"/>
 </p>
