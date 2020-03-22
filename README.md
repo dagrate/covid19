@@ -6,8 +6,8 @@ Last updated 22 March 2020
 ## North America
 
 <p align="middle">
-  <img src="https://github.com/dagrate/covid19/blob/master/plots/na_conf.pdf" width="400"/>
-  <img src="https://github.com/dagrate/covid19/blob/master/plots/na_dea.pdf" width="400"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/na_conf.png" width="400"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/na_dea.png" width="400"/>
 </p>
 
 ## Europe
