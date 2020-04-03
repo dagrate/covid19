@@ -1,7 +1,7 @@
 # COVID19: follow the evolution and the predictions per country
 
 Raw data is available at John Hopkins github https://github.com/CSSEGISandData <br>
-Last updated 1 April 2020
+Last updated 3 April 2020
 
 ## North America
 
