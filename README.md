@@ -15,6 +15,11 @@ Last updated 15 April 2020
   <img src="https://github.com/dagrate/covid19/blob/master/plots/na_dea_speed.png" width="400"/>
 </p>
 
+<p align="middle">
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/na_conf_per10000.png" width="400"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/na_dea_per10000.png" width="400"/>
+</p>
+
 ## Europe
 
 <p align="middle">
@@ -27,6 +32,11 @@ Last updated 15 April 2020
   <img src="https://github.com/dagrate/covid19/blob/master/plots/eu_dea_speed.png" width="400"/>
 </p>
 
+<p align="middle">
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/eu_conf_per10000.png" width="400"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/eu_dea_per10000.png" width="400"/>
+</p>
+
 ## Asia
 
 <p align="middle">
@@ -37,5 +47,10 @@ Last updated 15 April 2020
 <p align="middle">
   <img src="https://github.com/dagrate/covid19/blob/master/plots/as_conf_speed.png" width="400"/>
   <img src="https://github.com/dagrate/covid19/blob/master/plots/as_dea_speed.png" width="400"/>
+</p>
+
+<p align="middle">
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/as_conf_per10000.png" width="400"/>
+  <img src="https://github.com/dagrate/covid19/blob/master/plots/as_dea_per10000.png" width="400"/>
 </p>
 
